@@ -2,3 +2,6 @@
 *.zip
 *.txt
 BEST-TrainingSet/.DS_Store
+*.vec
+*.h5
+*.h5
